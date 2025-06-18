@@ -12,6 +12,8 @@ include(
     "security",
     "thread",
     "jvm",
+    "tools",
     "native",
     "foreign",
+    "experimental",
 )
